@@ -22,7 +22,7 @@ float x , y ;
     else if ( y == 0 && (x < 0 || x > 0)){
         printf("The point is situated on X axis");
     }
-    else if ( x == 0 && (y < 0 || y > 0)){
+    else if ( x == 0 && y != 0 ){
         printf("The point is situated on Y axis");
     }
     else {printf("The point is ORIGIN");}
