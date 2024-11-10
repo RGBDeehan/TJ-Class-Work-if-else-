@@ -1,6 +1,7 @@
 Conditional Statement Class Work (if else)
 
 
+
 1/ Make difference between two numbers. [ Always positive output]
 
 2/ Show whether the notebok is Square or Rectangle. [Input Length & Width]
