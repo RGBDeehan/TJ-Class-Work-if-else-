@@ -1,6 +1,4 @@
-Conditional Statement Class Work (if else)
-
-
+CONDITIONAL STATEMENT CLASS WORK (if else)
 
 1/ Make difference between two numbers. [ Always positive output]
 
