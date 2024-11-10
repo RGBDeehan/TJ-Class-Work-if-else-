@@ -1,4 +1,5 @@
 1/ Make difference between two numbers. [ Always positive output]
+
 2/ Show whether the notebok is Square or Rectangle. [Input Length & Width]
 3/ Give a point (x,y) and find out the position in quadrant system [1st,2nd,3rd,4th quadrant,x axis, y axis , ORIGIN]
 4/ Give two point (x,y)(a,b) & find out whether they are in same quadrant or in different quadrant.
