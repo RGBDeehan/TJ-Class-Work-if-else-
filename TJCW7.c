@@ -14,14 +14,14 @@ else if ( y == 0) {  printf("+ve x-axis.");    }
 
 }
 
-if( x < 0){
+else if( x < 0){
 if ( y > 0)       {  printf("2nd quadrant.");  }
 else if ( y < 0)  {  printf("3rd quadrant.");  }
 else if ( y == 0) {  printf("-ve x-axis.");    }
 
 }
 
-if( x == 0){
+else if( x == 0){
 if ( y > 0)       {  printf("+ve y-axis");  }
 else if ( y < 0)  {  printf("-ve y-axis");  }
 else if ( y == 0) {  printf("ORIGIN");      }
