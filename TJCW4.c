@@ -33,3 +33,32 @@ else {
 }     
      return 0;
 }
+
+          // ANOTHER PROCESS //
+
+          #include <stdio.h>
+int main(){
+float x , y , a , b ;
+    printf("Enter the value of x:");
+    scanf("%f",&x);
+    printf("Enter the value of y:");
+    scanf("%f",&y);
+    printf("Enter the value of a:");
+    scanf("%f",&a);
+    printf("Enter the value of b:"); 
+    scanf("%f",&b);
+
+ 
+      if (( x > 0 && y > 0 && a > 0 && b > 0 ) ||
+      ( x < 0 && y > 0 && a < 0 && b > 0 ) ||
+      ( x > 0 && y < 0 && a > 0 && b < 0 ) ||
+      ( x < 0 && y < 0 && a < 0 && b > 0 ) ){
+        printf("They are in same quardent");
+      }
+    
+     
+else {
+       printf("They are'nt in same quardent");
+}     
+     return 0;
+}
